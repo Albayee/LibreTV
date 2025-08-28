@@ -240,6 +240,6 @@ function initPasswordProtection() {
 }
 
 // 在页面加载完成后初始化密码保护
-document.addEventListener('DOMContentLoaded', function () {
-    initPasswordProtection();
-});
+// document.addEventListener('DOMContentLoaded', function () {
+//     initPasswordProtection();
+// });
